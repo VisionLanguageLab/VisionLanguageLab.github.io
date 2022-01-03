@@ -8,11 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the CSE Department at Pennsylvania State University--University Park. Previously, I was a postdoctoral scholar in the EECS department at UC Berkeley advised by Prof. Trevor Darrell. I received my PhD degree from the computer science department at Boston University in 2018 advised by Prof. Kate Saenko. I interned at Disney Research, Pittsburgh with Prof. Leonid Sigal. Before coming to US, I received a Master’s degree from Graduate University of Chinese Academy of Sciences in 2012, advised by Professor Hua Yu, and a Bachelor’s degree in computer science from Hefei University of Technology in 2009.
+I am an assistant professor in the [CSE Department](https://www.eecs.psu.edu/) at [Pennsylvania State University--University Park](https://www.psu.edu/). I am affiliated with the [Institute for Computational and Data Sciences](https://www.icds.psu.edu/about/meet-the-icds-team/directory/). Previously, I was a postdoctoral scholar in the EECS department at [UC Berkeley](https://eecs.berkeley.edu/). I received my Ph.D. degree from the computer science department at [Boston University](https://www.bu.edu/cs). 
 
-My research focuses on deep learning, computer vision and natural language processing, particularly in the area of action understanding in video. The goal of my research is building robust action understanding algorithms with human level structural knowledge and efficient multi-modal supervision. To achieve this goal, my research touches the following two aspects: compositional action recognition with knowledge reasoning, and multi-modal action detection with less supervision.
+My research focuses on deep learning, computer vision and natural language processing, particularly in the area of action understanding in the video. The goal of my research is building robust action understanding algorithms with human-level structural knowledge and efficient multi-modal supervision. To achieve this goal, my research touches the following two aspects: compositional action recognition with knowledge reasoning, and multi-modal action detection with less supervision.
 
-# [academicpages template](https://github.com/academicpages/academicpages.github.io)
+Prospective students: We have openings for Ph.D. students and visiting scholars with backgrounds in computer vision, natural language processing, artificial intelligence, machine learning, robotics or computer graphics. Interested candidates can send your CV and transcripts to [hkx5063@psu.edu](hkx5063@psu.edu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Site-wide configuration
 ------
