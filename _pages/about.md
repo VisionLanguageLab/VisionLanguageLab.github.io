@@ -1,11 +1,11 @@
 ---
-permalink: 
+permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - about/
-  - about.html
+  - /about/
+  - /about.html
 ---
 
 I am an assistant professor in the [CSE Department](https://www.eecs.psu.edu/) at [Pennsylvania State University--University Park](https://www.psu.edu/). I am affiliated with the [Institute for Computational and Data Sciences](https://www.icds.psu.edu/about/meet-the-icds-team/directory/). Previously, I was a postdoctoral scholar in the EECS department at [UC Berkeley](https://eecs.berkeley.edu/). I received my Ph.D. degree from the computer science department at [Boston University](https://www.bu.edu/cs). 
